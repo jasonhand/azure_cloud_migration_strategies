@@ -6,6 +6,8 @@ This README contains all of the resources shared during the Datadog webinar titl
 
 
 ### Slides
+
+![Slides](images/CloudMigrationUnlockedTitle.png)
 [Slides in PDF](https://github.com/jasonhand/azure_cloud_migration_strategies/blob/main/slides/Cloud%20Migration%20Unlocked-PDF.pdf)
 
 ### Try Datadog
@@ -19,23 +21,19 @@ This README contains all of the resources shared during the Datadog webinar titl
 ### Blogs
 - [Avoid Azure migration cost overruns with Datadog Cloud Cost Management](https://dtdg.co/3yFInQs)
 - [Successfully migrate to Azure with the Microsoft Cloud Adoption Framework and Datadog](https://dtdg.co/4fOm4cb)
-- [Strategize your Azure migration for SQL workloads with Datadog](https://www.datadoghq.com/blog/migrate-sql-workloads-to-azure-with-datadog/)
-- [Avoid Azure migration cost overruns with Datadog Cloud Cost Management](https://www.datadoghq.com/blog/azure-cloud-cost-management/)
+- [Strategize your Azure migration for SQL workloads with Datadog](https://dtdg.co/3Al7Qiu)
   
 ### Datadog Docs
-- [Datadog Guide: Azure Cloud Adoption Framework](https://docs.datadoghq.com/integrations/guide/azure-cloud-adoption-framework/)
-- [Datadog <> Azure Integration](https://docs.datadoghq.com/integrations/azure/)
+- [Datadog Guide: Azure Cloud Adoption Framework](https://dtdg.co/4dIhbPX)
+- [Datadog <> Azure Integration](https://dtdg.co/3YGhMNR)
 
 
 ### Azure Migration Ebook
-- [Azure Migration Ebook](https://www.datadoghq.com/resources/azure-migration-ebook/)
+- [Azure Migration Ebook](https://dtdg.co/4dGFduC)
 
 ### Microsoft Azure Resources
 - [Migration of VMs](https://azure.microsoft.com/en-us/products/virtual-machines#tabs-pill-bar-oc9786_tab2)
 - [Azure Migrate](https://azure.microsoft.com/en-us/products/azure-migrate)
 - [Azure Migrate Services Overview](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview)
 - [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#cloud-adoption-scenarios)
-
-## Slides
-
 
