@@ -2,9 +2,6 @@
 
 This README contains all of the resources shared during the Datadog webinar titled "Cloud Migration Unlocked: Modern Strategies for Moving to Azure".
 
-## Resources
-
-
 ### Slides
 
 ![Slides](images/CloudMigrationUnlockedTitle.png)
@@ -36,4 +33,12 @@ This README contains all of the resources shared during the Datadog webinar titl
 - [Azure Migrate](https://azure.microsoft.com/en-us/products/azure-migrate)
 - [Azure Migrate Services Overview](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview)
 - [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#cloud-adoption-scenarios)
+
+### Gartner
+
+[Public Cloud Spend Predictions](https://www.gartner.com/en/newsroom/press-releases/2024-05-20-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-surpass-675-billion-in-2024)
+
+### AAG
+[Cloud Computing Trends in 2023](https://aag-it.com/the-latest-cloud-computing-statistics/)
+
 
