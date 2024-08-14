@@ -9,16 +9,16 @@ This README contains all of the resources shared during the Datadog webinar titl
 [Slides in PDF](https://github.com/jasonhand/azure_cloud_migration_strategies/blob/main/slides/Cloud%20Migration%20Unlocked-PDF.pdf)
 
 ### Try Datadog
-- [Datadog Free Trial](https://www.datadoghq.com/free-datadog-trial/)
+- [Datadog Free Trial](https://dtdg.co/4ctJOiC)
 
 ### State Of Reports
-- [Datadog State of Serverless](https://www.datadoghq.com/state-of-serverless/)
-- [Datadog State of Security](https://www.datadoghq.com/state-of-cloud-security/)
-- [Datadog State of Cloud Costs](https://www.datadoghq.com/state-of-cloud-costs/)
+- [Datadog State of Serverless](https://dtdg.co/4cqbrcG)
+- [Datadog State of Security](https://dtdg.co/3Mr7JoF)
+- [Datadog State of Cloud Costs](https://dtdg.co/4dm4ZVn)
 
 ### Blogs
-- [Avoid Azure migration cost overruns with Datadog Cloud Cost Management](https://www.datadoghq.com/blog/azure-cloud-cost-management/)
-- [Successfully migrate to Azure with the Microsoft Cloud Adoption Framework and Datadog](https://www.datadoghq.com/blog/migrate-to-azure-with-the-microsoft-cloud-adoption-framework/)
+- [Avoid Azure migration cost overruns with Datadog Cloud Cost Management](https://dtdg.co/3yFInQs)
+- [Successfully migrate to Azure with the Microsoft Cloud Adoption Framework and Datadog](https://dtdg.co/4fOm4cb)
 - [Strategize your Azure migration for SQL workloads with Datadog](https://www.datadoghq.com/blog/migrate-sql-workloads-to-azure-with-datadog/)
 - [Avoid Azure migration cost overruns with Datadog Cloud Cost Management](https://www.datadoghq.com/blog/azure-cloud-cost-management/)
   
