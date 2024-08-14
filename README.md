@@ -2,7 +2,13 @@
 
 This README contains all of the resources shared during the Datadog webinar titled "Cloud Migration Unlocked: Modern Strategies for Moving to Azure".
 
-## Links
+## Resources
+
+
+### Slides
+[Slides in PDF](slides/Cloud Migration Unlocked-PDF.pdf)
+
+### Try Datadog
 - [Datadog Free Trial](https://www.datadoghq.com/free-datadog-trial/)
 
 ### State Of Reports
