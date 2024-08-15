@@ -29,7 +29,6 @@ This README contains all of the resources shared during the Datadog webinar titl
 - [Azure Migration Ebook](https://dtdg.co/4dGFduC)
 
 ### Microsoft Azure Resources
-- [Migration of VMs](https://azure.microsoft.com/en-us/products/virtual-machines#tabs-pill-bar-oc9786_tab2)
 - [Azure Migrate](https://azure.microsoft.com/en-us/products/azure-migrate)
 - [Azure Migrate Services Overview](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview)
 - [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#cloud-adoption-scenarios)
