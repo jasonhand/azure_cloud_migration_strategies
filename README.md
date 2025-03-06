@@ -7,6 +7,10 @@ This README contains all of the resources shared during the Datadog webinar titl
 ![Slides](images/CloudMigrationUnlockedTitle.png)
 [Slides in PDF](https://github.com/jasonhand/azure_cloud_migration_strategies/blob/main/slides/Cloud%20Migration%20Unlocked-PDF.pdf)
 
+### Video
+
+[Watch on YouTube](https://www.youtube.com/watch?v=QCPs4y0bY7g)
+
 ### Try Datadog
 - [Datadog Free Trial](https://dtdg.co/4ctJOiC)
 
